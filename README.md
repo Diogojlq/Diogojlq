@@ -1,9 +1,12 @@
 ### Connect with me
 
 Check out my blog (under construction):
+<br>
 <a href="https://diogoqueiroz.page/blog" target="_blank">
-  <img src="https://img.shields.io/badge/JAWS-%231962AA.svg?style=for-the-badge&logo=JAWS&logoColor=white" alt="Blog">
+  <img src="https://img.shields.io/badge/BLOG-%231962AA.svg?style=for-the-badge&logo=JAWS&logoColor=white" alt="Blog">
 </a>
+<br>
+Other socials:
 <br>
 <a href="https://www.linkedin.com/in/diogojlq/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -11,7 +14,7 @@ Check out my blog (under construction):
 <a href="mailto:diogojlq@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="diogoqueiroz.page" target="_blank">
+<a href="https://diogoqueiroz.page" target="_blank">
   <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=ghosts&logoColor=white" alt="Website">
 </a>
 
