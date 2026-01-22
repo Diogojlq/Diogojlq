@@ -4,6 +4,7 @@ Check out my blog (under construction):
 <a href="https://diogoqueiroz.page/blog" target="_blank">
   <img src="https://img.shields.io/badge/JAWS-%231962AA.svg?style=for-the-badge&logo=JAWS&logoColor=white" alt="Blog">
 </a>
+<br>
 <a href="https://www.linkedin.com/in/diogojlq/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
