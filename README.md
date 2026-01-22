@@ -2,7 +2,7 @@
 
 Check out my blog (under construction):
 <br>
-<a href="https://diogoqueiroz.page/blog" target="_blank">
+<a href="https://diogoqueiroz.page/posts" target="_blank">
   <img src="https://img.shields.io/badge/BLOG-%231962AA.svg?style=for-the-badge&logo=JAWS&logoColor=white" alt="Blog">
 </a>
 <br>
